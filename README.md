@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @msk2017ai
 - When I am with you, I bring the following along with me:
-    💞️   my Business systems (Domain) knowledge and vast experience in Industries such as Telecom,         Automotive, Manufacturing and Logistics, Banking and Finance.
-    👀   my all around skills on data engineering, data science, machine learning,  product Ownership.
-    👋   my problem solving skills using Data and Analytical tools and techniques.
-    🌱   my Unique Qualification which helps to understand and solve new problems with high quality in faster manner, as this is proven and well regarded in my work. 
+   - 💞️   my Business systems (Domain) knowledge and vast experience in Industries such as Telecom,         Automotive, Manufacturing and Logistics, Banking and Finance.
+   - 👀   my all around skills on data engineering, data science, machine learning,  product Ownership.
+   - 👋   my problem solving skills using Data and Analytical tools and techniques.
+   - 🌱   my Unique Qualification which helps to understand and solve new problems with high quality in faster manner, as this is proven and well regarded in my work. 
 - 💞️ I’m looking to collaborate on Github with other users and hone my skills
 - 📫 You can reach me via www.linkedin.com/in/msk2017ai
 -  resume_matcher is a repository which is a prototype of application - helping to identify and match resumes with the applied job description. 
