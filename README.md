@@ -8,9 +8,10 @@
 - 🌱 I’m excited to solve new problems using Data and Analytics.
 - 💞️ I’m looking to collaborate on Github with other users and hone my skills
 - 📫 You can reach me via www.linkedin.com/in/msk2017ai
--  resume_matcher is a repository which is a prototype of application - helping to identify and match resumes with the applied job description.
--  Working on Computer Vision Applications, This will help for Image Reading, Image Segmentation, and Face Detection, It is expected that the repo will be updated soon.
+-  resume_matcher is a repository which is a prototype of application - helping to identify and match resumes with the applied job description. 
 https://github.com/msk2017ai/resume_matcher
+-  Working on Computer Vision Applications, This will help for Image Reading, Image Segmentation, and Face Detection, It is expected that the repo will be updated soon.
+
 
 <!---
 msk2017ai/msk2017ai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
