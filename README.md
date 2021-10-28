@@ -4,7 +4,7 @@
       
    - 💞️   my `cool` Business Systems and Data (`domain knowledge`) understanding gained by working with many Industry systems of Telecom, Automotive, Manufacturing and Logistics, Banking and Finance.
          
-   - 👀   my `all around skills` on Governance of Teams, Product Ownership, Managing  Delivery and Teams, Application Design and Development, Deployment and Support, Data Engineering, Data Science, (Azure) Machine Learning and Analytics.  
+   - 👀   my `all around skills and role road` involving Governance of Teams, Product Ownership, Managing  Delivery and Teams, Application Design and Development, Deployment and Support, Data Modeler, Data Engineering, Data Science, (Azure) Machine Learning and Analytics.  
          
    - 👋   my `intuitive problem solving skills` using Data and Analytical Tools and Techniques.
 
@@ -19,6 +19,8 @@
    - 👋  Expertised on working as product owner involving `agile ceremonies` such as Sprint Planning, Retros, Standups, Refinements, Market Skills, Playback, QXRoadMap.
 
    - 👀 On `history of IT systems experience`: was Working with Telecom systems for the last 7 years from 2014-2021,  Working with Automotive for the previous last 7 years from 2006-2013, Working with Manufacturing and Logistics for close to 2.5 years, Also had opportunity to work with Finance client (EDJ) when i was with L&TInfotech. Also having Retail Domain experience with US Retail Major developing big data solutions..
+
+   - 🌱 On `my technology roadmap`: my career started working with tandem systems, then IBM Mainframes, Pacbase coding generators, Teradata sqls, IBM Datastage ETL tools, Python, Data Science, Machine Learning, Azure Machine Learning, R-Shiny, and finally having plans with deep learning (mastering it as my next passion of interest).
 
    - 💞️ I have an year of `banking` Industry experience. 
 
