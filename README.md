@@ -24,7 +24,7 @@
 
    - 👋 I am certified `togaf 9.1 Advanced Enterprise Architect`, So Enterprise initiatives are not new to me. Link: https://github.com/msk2017ai/msk2017ai/blob/main/Togaf_Architect/Togaf9_Advanced_Certified.jpg
 
-   - 👀 I can bring `design thinking` skills and quickly adapt to my environment that can reap lots of difference and helps achieve what we run with effectively.. This has already proven in my previous work experiences.
+   - 👀 I can bring `design thinking` skills and quickly adapt to my environment that can make differences and helps achieve what we do with more effectiveness.. This has already proven in my previous work experiences.
                
    - 🌱  From the `analytics` Front, I can quickly work and solve problems such as:
       -  Why Customers are leaving the companies (Churns)
