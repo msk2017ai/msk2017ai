@@ -37,7 +37,7 @@
       -  What do we recommend next for?
       -  What is the Next Best Action for the Customer's/Vendor's Perspective?
       -  Do patients likely get affected with a specific disease like cancer?
-      -  How to identify and mitigate fraudulent transactions?
+      -  How to identify and predict fraudulent transactions, and help preventing on the first place?
 
 - 💞️ I’m just new to `collaborate` on Github with other users and ready to work with others for mutual benefits. 
 
@@ -48,7 +48,7 @@
 -  resume_matcher is a repository which is a prototype of application - helping to identify and match resumes with the applied job description. 
 https://github.com/msk2017ai/resume_matcher
                                
--  Working on Computer Vision Applications, This will help for Image Reading, Image Segmentation, and Face Detection, It is expected that the repo will be updated soon.
+-  Working on Computer Vision Applications, This will help for Image Reading, Image Segmentation, and Face Detection, There is a plan a new repo created on the related problems soon.
 
 
 <!---
