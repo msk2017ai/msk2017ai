@@ -8,7 +8,7 @@
          
    - 👋   my `intuitive problem solving skills` using Data and Analytical Tools and Techniques.
 
-   - 📫   my `mixed stack of skills`, I can work on platforms in both on-prem and cloud as well in any of these - Data Design and Architecture, Application Design & Architecture, Cloud Migrations, Machine Learning as well. Expertise on Azure Cloud- Azure Data Factory, Azure BLOBs, Azure Machine Learning Studio, Azure Databricks and all other Azure Stack. Certified on Google Cloud Platform as an Architect. `my tools` are Visual Studio Code, Anaconda Python (Jupyter Notebook), Apache Airflow, gitlab, azure devops, mlflow, 
+   - 📫   my `mixed stack of skills`, I can work on platforms in both on-prem and cloud as well in any of these - Data Design and Architecture, Application Design & Architecture, Cloud Migrations, Machine Learning as well. Expertise on Azure Cloud- Azure Data Factory, Azure BLOBs, Azure Machine Learning Studio, Azure Databricks and all other Azure Stack. Certified on Google Cloud Platform as an Architect. `my tools` are Visual Studio Code, Anaconda Python (Jupyter Notebook), Apache Airflow, gitlab, azure devops, mlflow.
           
    - 🌱   my `unique qualification` as I hold my bachelor's in Engineering degree and a Master's in Business Administration, which is always helping me in grasping business quickly, align with business goals, achieving   excellance in line with what is entrusted.
         
