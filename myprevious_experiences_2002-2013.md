@@ -1,8 +1,7 @@
 # My Work History from 2002 - 2013:
 
 
-### Senior Consultant,        
-### CSC India - Ford Technology Services India, Chennai, Tamil Nadu            
+### Senior Consultant, CSC India - Ford Technology Services India, Chennai, Tamil Nadu            
 ### 2010-05 to 2013-08
 
 ``` 
@@ -14,8 +13,7 @@ Key result Areas:
 
 ```
 
-### Senior Software Engineer,        
-### Mphasis An HP Company, Chennai, Tamil Nadu            
+### Senior Software Engineer, Mphasis An HP Company, Chennai, Tamil Nadu            
 ### 2006-02 to 2010-05
 
 ``` 
@@ -27,8 +25,7 @@ Key result Areas:
 
 ```
 
-### Senior Software Engineer, 
-### L&T Infotech, Chennai, Tamil Nadu                     
+### Senior Software Engineer, L&T Infotech, Chennai, Tamil Nadu                     
 ### 2004-11 to 2006-02
 
 ``` 
@@ -42,8 +39,7 @@ Key Result Areas:
 
 ```
 
-### Officer, 
-### ICICI Bank, Madurai, Tamil Nadu                     
+### Officer, ICICI Bank, Madurai, Tamil Nadu                     
 ### 2002-09 to 2003-08
 
 ``` 
