@@ -4,11 +4,11 @@
       
    - 💞️   my `cool` Business Systems and Data (`domain knowledge`) understanding gained by working with many Industry systems of Telecom, Automotive, Manufacturing and Logistics, Banking and Finance.
          
-   - 👀   my `all around skills and role road` involving Governance of Teams, Product Ownership, Managing  Delivery and Teams, Application Design and Development, Deployment and Support, Data Modeler, Data Engineering, Data Science, (Azure) Machine Learning and Analytics.  
+   - 👀   my `all mix of skills and career journey` involving Governance of AI Teams, Product Ownership, Predictive Modelling, and Insights Identification,  Data Science and Analytics, Managing  Teams delivery, Application Design, and development, Some parts of Data Modelling and Engineering .  
          
    - 👋   my `intuitive problem solving skills` using Data and Analytical Tools and Techniques.
 
-   - 📫   my `mixed stack of skills`, I can work on platforms in both on-prem and cloud as well in any of these - Data Design and Architecture, Application Design & Architecture, Cloud Migrations, Machine Learning as well. Expertise on Azure Cloud- Azure Data Factory, Azure BLOBs, Azure Machine Learning Studio, Azure Databricks and all other Azure Stack. Certified on Google Cloud Platform as an Architect. `my tools` are Visual Studio Code, Anaconda Python (Jupyter Notebook), Apache Airflow, gitlab, azure devops, mlflow.
+   - 📫   my `mixed stack of skills`, I can work on different domains and can quick adapt myself `my tools` are Visual Studio Code, Anaconda Python (Jupyter Notebook), Apache Airflow, gitlab, azure devops, mlflow.
           
    - 🌱   my `unique qualification` as I hold my bachelor's in Engineering degree and a Master's in Business Administration, which is always helping me in grasping business quickly, align with business goals, achieving   excellance in line with what is entrusted.
         
@@ -18,7 +18,7 @@
          
    - 👋  Expertised on working as product owner involving `agile ceremonies` such as Sprint Planning, Retros, Standups, Refinements, Market Skills, Playback, QXRoadMap.
 
-   - 👀 On `history of IT systems experience`: was Working with Telecom systems for the last 7 years from 2014-2021,  Working with Automotive for the previous last 7 years from 2006-2013, Working with Manufacturing and Logistics for close to 2.5 years, Also had opportunity to work with Finance client (EDJ) when i was with L&TInfotech. Also having Retail Domain experience with US Retail Major developing big data solutions..
+   - 👀 On `history of IT systems experience`: was Working with Telecom systems for the  7 years from 2014-2021,  Working with Automotive for the recent years from 2021 + prior to 2021  7 years from 2006-2013, Working with Manufacturing and Logistics for close to 2.5 years, Also had opportunity to work with Finance client (EDJ) when i was with L&TInfotech. Also having Retail Domain experience with US Retail Major developing big data solutions..
 
    - 🌱 On `my technology roadmap`: my career started working with tandem systems, then IBM Mainframes, Pacbase coding generators, Teradata sqls, IBM Datastage ETL tools, Python, Data Science, Machine Learning, Azure Machine Learning, R-Shiny, and finally having plans with deep learning (mastering it as my next passion of interest).
 
@@ -45,7 +45,7 @@
 
 - 👀 my professional certifications can be verified easily in the above folders as appropriate.
                      
-- 📫 You can reach me via www.linkedin.com/in/msk2017ai
+- 📫 You can reach me via www.linkedin.com/in/mskmiba
                                      
 -  resume_matcher is a repository which is a prototype of application - helping to identify and match resumes with the applied job description. 
 https://github.com/msk2017ai/resume_matcher
