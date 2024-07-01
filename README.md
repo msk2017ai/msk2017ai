@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @msk2017ai/mskmiba
                         
 - When I am with you, I bring the following along with me:
+
+1) Domain - Business Leader - who can quickly adapt to the expectations and start adding value immediately.
+2) Data Engineering and Delivery excellance Leader
+3) Analytical & Data Science, AI 
+
       
    - 💞️   my `cool` Business Systems and Data (`domain knowledge`) understanding gained by working with many Industry systems of Telecom, Automotive, Manufacturing and Logistics, Banking and Finance.
          
